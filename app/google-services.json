@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130567009200",
+    "project_id": "makes-notes",
+    "storage_bucket": "makes-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130567009200:android:ae4b453c0a33f35a295c75",
+        "android_client_info": {
+          "package_name": "com.blaze.makesnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130567009200-at1hfop4dogeuf8pj5e10863vn1li3fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmCTtmJF9qg1aYajW_LKAlNFM4lbuHJpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130567009200-at1hfop4dogeuf8pj5e10863vn1li3fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
